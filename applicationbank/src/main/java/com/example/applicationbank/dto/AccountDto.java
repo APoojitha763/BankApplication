@@ -8,5 +8,7 @@ public class AccountDto {
     private String accountHolderName;
     private double balance;
     private String accountType;
-
+    private String accountNumber;
+    private String branchName;
+    private String ifscCode;
 }
