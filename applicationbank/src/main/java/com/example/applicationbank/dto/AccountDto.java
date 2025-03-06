@@ -11,4 +11,7 @@ public class AccountDto {
     private String accountNumber;
     private String branchName;
     private String ifscCode;
+    private String bankName;
+    private String accountStatus;
+    private String accountCreationDate;
 }
