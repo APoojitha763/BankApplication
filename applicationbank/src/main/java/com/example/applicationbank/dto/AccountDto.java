@@ -6,6 +6,7 @@ import lombok.Data;
 public class AccountDto {
     private Long id;
     private String accountHolderName;
-    private double balane;
+    private double balance;
+    private String accountType;
 
 }
